@@ -1,0 +1,75 @@
+name: flutter_app
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  google_fonts: ^6.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  flutter_svg: ^2.0.10+1
+
+flutter:
+  uses-material-design: true
+  assets:
+  - assets/images/background.jpeg
+  - assets/images/avatar_image.jpeg
+  - assets/vectors/arrow_right_2_x2.svg
+  - assets/vectors/selected_3_x2.svg
+  - assets/vectors/wifi_3_x2.svg
+  - assets/vectors/vector_14_x2.svg
+  - assets/vectors/battery_1_x2.svg
+  - assets/vectors/chart_x2.svg
+  - assets/vectors/ellipse_1903_x2.svg
+  - assets/vectors/wifi_5_x2.svg
+  - assets/vectors/wifi_4_x2.svg
+  - assets/vectors/cellular_connection_5_x2.svg
+  - assets/vectors/group_1402_x2.svg
+  - assets/vectors/battery_3_x2.svg
+  - assets/vectors/progess_3_x2.svg
+  - assets/vectors/circles_x2.svg
+  - assets/vectors/cellular_connection_1_x2.svg
+  - assets/vectors/arrow_right_3_x2.svg
+  - assets/vectors/trophy_1_x2.svg
+  - assets/vectors/cellular_connection_2_x2.svg
+  - assets/vectors/selected_1_x2.svg
+  - assets/vectors/glow_1_x2.svg
+  - assets/vectors/subtract_x2.svg
+  - assets/vectors/plus_button_1_x2.svg
+  - assets/vectors/battery_5_x2.svg
+  - assets/vectors/minus_button_x2.svg
+  - assets/vectors/mode_1_x2.svg
+  - assets/images/avatar_image.jpeg
+  - assets/images/background.jpeg
+  - assets/vectors/arrow_right_x2.svg
+  - assets/vectors/wifi_1_x2.svg
+  - assets/vectors/trophy_2_x2.svg
+  - assets/vectors/battery_x2.svg
+  - assets/vectors/vector_6_x2.svg
+  - assets/vectors/subtract_1_x2.svg
+  - assets/vectors/progess_31_x2.svg
+  - assets/vectors/cellular_connection_4_x2.svg
+  - assets/vectors/battery_2_x2.svg
+  - assets/vectors/mode_x2.svg
+  - assets/vectors/glow_x2.svg
+  - assets/vectors/chart_1_x2.svg
+  - assets/vectors/wifi_x2.svg
+  - assets/vectors/minus_button_1_x2.svg
+  - assets/vectors/selected_x2.svg
+  - assets/vectors/trophy_x2.svg
+  - assets/vectors/cellular_connection_x2.svg
+  - assets/vectors/selected_2_x2.svg
+  - assets/vectors/plus_button_x2.svg
+  - assets/vectors/circles_1_x2.svg
+  - assets/vectors/group_14021_x2.svg
+

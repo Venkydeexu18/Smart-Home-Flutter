@@ -1,0 +1,11 @@
+<svg width="238" height="240" viewBox="0 0 238 240" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M107.024,54.478C115.202,42.811 132.6,43.207 140.257,55.222L236.054,205.531C236.9,206.857 235.952,208.596 234.38,208.605L1.872,209.977C0.248,209.987 -0.732,208.191 0.2,206.861C8.701,194.735 39.971,150.128 61.091,120C75.141,99.959 93.681,73.51 107.024,54.478Z" transform="rotate(180 118 120)" fill="url(#pf_0_148_6090)"/>
+<path d="M107.024,54.478C115.202,42.811 132.6,43.207 140.257,55.222L236.054,205.531C236.9,206.857 235.952,208.596 234.38,208.605L1.872,209.977C0.248,209.987 -0.732,208.191 0.2,206.861C8.701,194.735 39.971,150.128 61.091,120C75.141,99.959 93.681,73.51 107.024,54.478Z" transform="rotate(180 118 120)" stroke="url(#ps_0_148_6090)" stroke-width="1" stroke-miterlimit="3.999327" style="mix-blend-mode:overlay"/>
+<line x1="74" y1="126.5" x2="110" y2="126.5" stroke="#FFFFFF" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<defs>
+<linearGradient id="pf_0_148_6090" x1="34" y1="152" x2="262" y2="148" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FFFFFF" stop-opacity="0.1"/>
+<stop offset="1" stop-color="#FFFFFF" stop-opacity="0.1"/>
+</linearGradient>
+</defs>
+</svg>
